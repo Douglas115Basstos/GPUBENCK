@@ -1,1 +1,2 @@
 # GPUBENCK
+RX6600 (8GB)
